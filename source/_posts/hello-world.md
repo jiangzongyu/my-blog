@@ -1,9 +1,7 @@
 ---
 title: Hello World
 # excerpt: 这是摘要
-categories:
-- Diary
-tags: [11, 22]
+categories: [你好]
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -40,3 +38,5 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+**防守打法放肆发顺![](/Users/mac/Documents/company/my-blog/source/img/file.webp)**

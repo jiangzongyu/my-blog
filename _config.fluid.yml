@@ -348,7 +348,7 @@ navbar:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
-    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    # - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
@@ -581,7 +581,6 @@ post:
       # Data Source
       # Options: busuanzi | leancloud
       source: "busuanzi"
-      # format: "{} 次"
 
   # 在文章开头显示文章更新时间，该时间默认是 md 文件更新时间，可通过 front-matter 中 `updated` 手动指定（和 date 一样格式）
   # Update date is displayed at the beginning of the post. The default date is the update date of the md file, which can be manually specified by `updated` in front-matter (same format as date)
@@ -907,7 +906,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/sort.webp
+  banner_img: /img/tag.webp
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
