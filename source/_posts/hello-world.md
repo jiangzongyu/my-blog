@@ -40,4 +40,3 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
-**防守打法放肆发顺![](/Users/mac/Documents/company/my-blog/source/img/file.webp)**
