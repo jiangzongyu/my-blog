@@ -6,7 +6,7 @@ date: 2023-12-25 15:27:44
 
 ### 教育背景
 
-**黑龙江大学&emsp;&emsp;&emsp;&emsp;2014-2018&emsp;&emsp;&emsp;&emsp;本科**
+**黑龙江大学&emsp;&emsp;&emsp;&emsp;2014-2018&emsp;&emsp;&emsp;&emsp; 软件工程&emsp;&emsp;&emsp;&emsp;本科**
 
 ### 工作经历
 
